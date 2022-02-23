@@ -1,6 +1,6 @@
 # Workshop: Introduction to Image Processing using Open-Source Software
 
-Lucas D. Lo Vercio et al. (lucasdaniel.lovercio@ucalgary.ca)
+Lucas D. Lo Vercio, Ph.D. (lucasdaniel.lovercio@ucalgary.ca)
 
 McCaig Institute for Bone and Joint Health.
 
@@ -14,7 +14,7 @@ Cumming School of Medicine, University of Calgary (Calgary, AB, Canada)
 
 ## Software
 
-* Python. Anaconda is recommended, to manage Python dependencies: \url{https://docs.anaconda.com/anaconda/user-guide/getting-started/}.
+* Python. Anaconda is recommended, to manage Python dependencies (https://docs.anaconda.com/anaconda/user-guide/getting-started/).
 * Any Python IDE is accepted (such as PyCharm).
 * Paraview (https://www.paraview.org).
 * 3DSlicer (https://www.slicer.org).
